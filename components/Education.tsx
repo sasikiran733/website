@@ -21,7 +21,7 @@ const Education: React.FC = () => {
     },
     {
       school: "Narayana E-Techno School",
-      degree: "Secondary School Certificate (SSC)",
+      degree: "Central Board of Secondary Education (CBSE)",
       year: "2020",
       score: "345 / 500",
       location: "Andhra Pradesh"
